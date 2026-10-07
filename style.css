@@ -1,0 +1,6 @@
+.header
+.header-logo-img {
+    width: 50px; /* Adjust the width as needed */
+    height: 40px; /* Maintain aspect ratio */
+    border-radius: 50%; /* Make it circular */
+}
